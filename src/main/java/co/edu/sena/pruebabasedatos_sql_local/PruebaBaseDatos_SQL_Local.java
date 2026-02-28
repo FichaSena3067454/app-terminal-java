@@ -6,4 +6,8 @@ public class PruebaBaseDatos_SQL_Local {
     public static void main(String[] args) {
         System.out.println("Hola mundo...");
     }
+	
+	public static void listUsers(){
+		System.out.println("Listign users...");
+	}
 }
