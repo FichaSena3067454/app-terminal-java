@@ -10,4 +10,8 @@ public class PruebaBaseDatos_SQL_Local {
 	public static void listUsers(){
 		System.out.println("Listign users...");
 	}
+    
+    public static void addUsers(){
+            System.out.println("Adding users...");
+    }
 }
